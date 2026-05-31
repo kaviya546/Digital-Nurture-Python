@@ -24,6 +24,10 @@ Task 6
 
 <img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/b6be88be-51b5-49bb-9f19-ed35af066db5" />
 
+Task 7
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/78b31eac-d2ce-4cea-84d2-102a8eb4555e" />
+
 Task 8
 
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/482dc399-4a7d-4b0d-8105-3932626793e4" />
