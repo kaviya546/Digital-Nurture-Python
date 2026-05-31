@@ -1,4 +1,4 @@
-
+PYTHON 
 
 Task 1
 
@@ -15,3 +15,7 @@ Task 3
 Task 4
 
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5b0337c4-380e-4673-88b6-98d0cfa02fc8" />
+
+Task 5
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/5b8bcb3a-0ff7-4cb4-9def-67ddbb3902fc" />
