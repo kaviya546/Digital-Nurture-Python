@@ -32,3 +32,6 @@ Task 8
 
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/482dc399-4a7d-4b0d-8105-3932626793e4" />
 
+Task 9
+
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/45cd6c46-6460-4d9c-912e-627f3d30ab5f" />
