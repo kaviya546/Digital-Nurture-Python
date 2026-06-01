@@ -52,3 +52,8 @@ Task 13
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/533253d0-e612-4989-ad0b-43a0c77415bd" />
 
+Task 14
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/b817a8d0-3617-4aab-8560-01dd14f4a90d" />
+
+
