@@ -44,3 +44,8 @@ Task 11
 
 <img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/2e657667-5693-421d-8aee-cc77ed9bb6e2" />
 
+Task 12
+
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/dd831b0a-db01-4653-bf1a-5588b9ce3ab2" />
+
+
