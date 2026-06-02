@@ -68,3 +68,7 @@ Task 17
 
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/5aaefcc2-a1af-4d6b-acfe-566a57d78142" />
 
+Task 18
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/2b4333ff-e5a3-4eb2-8288-2eefb32ee795" />
+
