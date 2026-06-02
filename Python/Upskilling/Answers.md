@@ -83,3 +83,8 @@ Task 20
 Task 21
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d15df711-445f-46d0-8e59-9faa8fed000a" />
+
+Task 22
+
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/5487852f-53f7-489b-9763-fb4199394419" />
+
