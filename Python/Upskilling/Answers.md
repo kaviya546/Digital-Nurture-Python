@@ -103,3 +103,11 @@ Task 25
 Task 26
 
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/3326d0fc-fd47-4692-bb6c-c92f19bdd7c8" />
+
+Task 27
+
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/5877133c-d4a0-4a2c-b97f-8beaeaaaa56f" />
+
+Task 28
+
+
