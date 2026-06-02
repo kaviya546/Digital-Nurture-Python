@@ -92,3 +92,6 @@ Task 23
 
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/5a12884c-a297-4215-8592-2e9634992efb" />
 
+Task 24
+
+-<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/1e4f9840-c1cd-4e8b-8eb4-314921f54228" />
