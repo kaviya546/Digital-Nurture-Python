@@ -99,3 +99,7 @@ Task 24
 Task 25
 
 <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/e185c15a-8f22-4bde-b8fe-17dc372f8112" />
+
+Task 26
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/3326d0fc-fd47-4692-bb6c-c92f19bdd7c8" />
