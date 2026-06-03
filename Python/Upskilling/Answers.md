@@ -130,3 +130,7 @@ Task 32
 
 Task 33
 
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/feab81d7-ade7-411a-850f-614e56292cb5" />
+
+Task 34
+
