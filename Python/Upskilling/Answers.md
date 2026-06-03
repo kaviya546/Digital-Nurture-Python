@@ -144,7 +144,9 @@ Task 36
 
 <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/274d4419-0a57-4892-ac3b-4f53a57bc4d8" />
 
+Task 37
 
+<img width="1908" height="1017" alt="image" src="https://github.com/user-attachments/assets/699d117a-ac2c-4bb7-a3e8-abc8d6b2e828" />
 
 
 
