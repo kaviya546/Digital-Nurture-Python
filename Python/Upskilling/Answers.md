@@ -164,4 +164,12 @@ Task 41
 
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/6779b0f7-9097-4e96-b32e-4e880af46dc3" />
 
+Task 42
 
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/d1ee901e-dbfc-4f33-8bbc-619eedea93d7" />
+
+Task 43
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/a84709ad-70a6-4855-b936-310fd11aae8a" />
+
+Task 44
