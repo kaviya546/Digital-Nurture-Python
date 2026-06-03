@@ -198,6 +198,10 @@ Task 49
 
 Task 50
 
+<img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/a386ee1c-2adb-4197-b7e4-cee18172b168" />
+
+Task 51
+
 
 
 
