@@ -214,6 +214,11 @@ Task 53
 
 Task 54
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/0243f556-1f0a-4d8c-a3e5-0ffd90a1a291" />
+
+Task 55
+
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/7f83c0b3-63c3-4d6f-91cb-befc107bc22f" />
 
 
 
