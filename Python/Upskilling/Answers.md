@@ -138,3 +138,8 @@ Task 34
 
 Task 35
 
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/bc52cee7-502d-4a6a-ae5b-f0478c1d88b4" />
+
+Task 36
+
+
