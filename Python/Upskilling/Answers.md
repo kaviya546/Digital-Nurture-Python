@@ -122,3 +122,8 @@ Task 30
 
 Task 31
 
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/f5a04124-cbc6-402a-8d86-9206e7e0643b" />
+
+Task 32
+
+
