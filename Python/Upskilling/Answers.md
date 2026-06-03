@@ -158,5 +158,10 @@ Task 39
 
 Task 40
 
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/456d3618-daae-45a5-afee-e95efb14a757" />
+
+Task 41
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/6779b0f7-9097-4e96-b32e-4e880af46dc3" />
 
 
