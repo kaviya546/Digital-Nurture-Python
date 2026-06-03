@@ -202,6 +202,9 @@ Task 50
 
 Task 51
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bb73d1b6-8e81-4ca5-b582-2e4ebd067a35" />
+
+Task 52
 
 
 
